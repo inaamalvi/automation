@@ -18,7 +18,7 @@ public class successfulRegistration_old {
 		driver.manage().window().maximize();
 	
 		driver.get("http://ittoptalent.com/");
-		driver.findElement(By.xpath("//div[@class='careerfy-right']//li//a[text()='Register']")).click();
+	//	driver.findElement(By.xpath("//div[@class='careerfy-right']//li//a[text()='Register']")).click();
 		driver.findElement(By.id("EmployeeRegister")).click();
 	}
 
