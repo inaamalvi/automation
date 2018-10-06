@@ -1,18 +1,26 @@
 package coreClasses;
 
+import java.io.File;
 import java.io.IOException;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
+import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.lang3.RandomStringUtils;
+
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.Augmenter;
 import org.testng.Reporter;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeTest;
+import org.apache.commons.io.FileUtils;
+
 public class BaseTestScript {
 
 	public static WebDriver driver;
@@ -120,6 +128,35 @@ public class BaseTestScript {
 		Reporter.log("==============================================================");
 		Reporter.log("BUG DESCRIPTION : " + bugDescription);
 		Reporter.log("==============================================================");
+	}
+	protected static void CaptureErrorScreen(String screen_name) throws IOException
+	{
+
+		String date_str = systemTime();
+		if (screen_name.startsWith("http"))
+		{
+			StringTokenizer split = new StringTokenizer(screen_name, "?");
+			screen_name = split.nextToken();
+			screen_name = screen_name.replace("/", "_");
+			screen_name = screen_name.replace(":", "");
+		}
+		else if (screen_name.contains("/") || screen_name.contains(":") || screen_name.contains("?")
+				|| screen_name.contains("\\") || screen_name.contains("*") || screen_name.contains("<")
+				|| screen_name.contains(">"))
+		{
+			screen_name = screen_name.replace("/", "_");
+			screen_name = screen_name.replace(":", "");
+			screen_name = screen_name.replace("\\", "");
+			screen_name = screen_name.replace("?", "");
+			screen_name = screen_name.replace("*", "");
+			screen_name = screen_name.replace("<", "");
+			screen_name = screen_name.replace(">", "");
+		}
+		System.out.println("Screen Name : " + screen_name);
+		WebDriver augmentedDriver = new Augmenter().augment(driver);
+		String path = "C:\\BugScreenShort\\" + screen_name + "_" + date_str + ".jpeg";
+		File error = ((TakesScreenshot) augmentedDriver).getScreenshotAs(OutputType.FILE);
+		FileUtils.copyFile(error, new File(path));
 	}
 
 }
