@@ -1,4 +1,4 @@
-package pageObjects;
+package employer_PageObjects;
 
 import java.io.IOException;
 import java.util.List;
@@ -10,11 +10,11 @@ import org.openqa.selenium.WebElement;
 import coreClasses.BasePageObject;
 import coreClasses.BaseTestScript;
 
-public class Employer_Menu extends BasePageObject {
+public class Employer_MenuPage extends BasePageObject {
 
 	int x = 10;
 
-	public Employer_Menu(WebDriver driver) {
+	public Employer_MenuPage(WebDriver driver) {
 		super(driver);
 
 	}

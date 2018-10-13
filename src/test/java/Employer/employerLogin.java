@@ -6,8 +6,7 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import coreClasses.BaseTestScript;
-
-import pageObjects.Employer_Loginpage;
+import employer_PageObjects.Employer_LoginPage;
 
 
 public class employerLogin extends BaseTestScript {

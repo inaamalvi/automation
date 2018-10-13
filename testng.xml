@@ -7,18 +7,26 @@
 			class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
 
+<!-- 	<test thread-count="5" name="Registration"> -->
+<!-- 		<classes> -->
+<!-- 			<class name="Employer.employerRegistration" /> -->
+
+
+<!-- 		</classes> -->
+<!-- 	</test>  -->
+<!-- 	<test thread-count="5" name="Login"> -->
+<!-- 		<classes> -->
+
+<!-- 			<class name="Employer.employerLogin" /> -->
+
+<!-- 		</classes> -->
+<!-- 	</test>  -->
+	
+	
 	<test thread-count="5" name="Registration">
 		<classes>
-			<class name="Employer.employerRegistration" />
-
-
+			<class name="Candidate.candidateRegistration" />
 		</classes>
-	</test> <!-- Test -->
-	<test thread-count="5" name="Login">
-		<classes>
-
-			<class name="Employer.employerLogin" />
-
-		</classes>
-	</test> <!-- Test -->
-</suite> <!-- Suite -->
+	</test> 
+	
+</suite> 

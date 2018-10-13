@@ -1,4 +1,4 @@
-package pageObjects;
+package employer_PageObjects;
 
 import java.io.IOException;
 
@@ -7,9 +7,9 @@ import org.openqa.selenium.WebDriver;
 
 import coreClasses.BasePageObject;
 
-public class Employer_Loginpage extends BasePageObject {
+public class Employer_LoginPage extends BasePageObject {
 
-	public Employer_Loginpage(WebDriver driver) {
+	public Employer_LoginPage(WebDriver driver) {
 		super(driver);
 
 	}

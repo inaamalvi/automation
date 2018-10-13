@@ -7,13 +7,13 @@ import org.testng.annotations.Test;
 
 import coreClasses.BaseTestScript;
 import coreClasses.itTopTalentProperties;
-import pageObjects.Employer_Loginpage;
-import pageObjects.Employer_RegisterPage;
+import employer_PageObjects.Employer_LoginPage;
+import employer_PageObjects.Employer_RegisterPage;
 
 public class employerRegistration extends BaseTestScript {
 
 	Employer_RegisterPage emp_reg;
-	Employer_Loginpage emp_login;
+	Employer_LoginPage emp_login;
 	String emailaddress = "inaamalvi3"+getRandomString(3)+"@gmail.com";
 	String APPLICATION_URL;
 	String  password = "test";
@@ -30,7 +30,7 @@ public class employerRegistration extends BaseTestScript {
 		driver.navigate().to(APPLICATION_URL);
 		Thread.sleep(5000);
 		Reporter.log("Step-2 Registration ended");
-		emp_login = new Employer_Loginpage(BaseTestScript.driver);
+		emp_login = new Employer_LoginPage(BaseTestScript.driver);
 		emp_login.login(emailaddress, password);
 		Reporter.log("login ended..");
 		expectedResult();

@@ -4,6 +4,8 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.StringTokenizer;
 import java.util.concurrent.TimeUnit;
 
@@ -25,6 +27,7 @@ public class BaseTestScript {
 
 	public static WebDriver driver;
 	String APPLICATION_URL;
+	String downloadFilePath = "C:\\InamAlvi\\Selenium_downloads";
 
 	@BeforeTest
 	public void beoferTest() {
@@ -36,9 +39,16 @@ public class BaseTestScript {
 	public WebDriver setUp() {
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\InamAlvi\\Downloads\\chromedriver_win32\\chromedriver.exe");
+		
+		Map<String, Object> prefs = new HashMap<String, Object>();
+		prefs.put("profile.content_settings.pattern_pairs.*.multiple-automatic-downloads", 1);
+		prefs.put("download.default_directory", downloadFilePath);
+		
+		
 		ChromeOptions options = new ChromeOptions();
 		options.addArguments("disable -extensions");
 		options.addArguments("--start-maximized");
+		options.setExperimentalOption("prefs", prefs);
 		return new ChromeDriver(options);
 
 	}

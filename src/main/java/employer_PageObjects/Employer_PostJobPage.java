@@ -1,4 +1,4 @@
-package pageObjects;
+package employer_PageObjects;
 
 import java.io.IOException;
 
@@ -8,9 +8,9 @@ import org.openqa.selenium.support.ui.Select;
 
 import coreClasses.BasePageObject;
 
-public class Employer_PostJob extends BasePageObject {
+public class Employer_PostJobPage extends BasePageObject {
 
-	public Employer_PostJob(WebDriver driver) {
+	public Employer_PostJobPage(WebDriver driver) {
 		super(driver);
 
 	}

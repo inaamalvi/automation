@@ -1,0 +1,305 @@
+
+Remove "This media is a link"
+CV.pdf
+This media is a document
+Resume.doc
+Resume.doc
+GANBAT_Tamir Resume.doc
+HTML, CSS, and database skills      
+
+
+creative problem-solving skills.
+
+the ability to take design concepts and run with them;
+
+
+
+
+Desc - Fullstack   - 162
+
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+Desc - Backend      -161
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+[title] with professional experience of [exp]+ in the computer software industry. Skilled in .
+PHP
+Wordpress
+Javascript
+Node
+Java
+jQuery
+CMS
+Ruby,
+MVC
+SQL
+ASP.Net
+C#
+Ruby on Rails
+
+
+
+
+Desc - Frontend     -160
+
+[title] with [exp]+ years of experience. Knowledgeable in a variety of languages/frameworks/libraries (including React, 
+
+JavaScript
+jQuery
+CSS
+SASS
+LESS
+HTML5
+Grunt
+Gulp
+MySQL
+PHP
+ES6
+Angular
+React
+Backbone
+Node
+Webpack
+Redux
+Responsive
+Bootstrap
+Ruby 
+AJAX
+Express js
+Wordpress
+Materialize
+RESTful API
+ Google Maps
+  Google API
+  Data visualization
+Strong understanding of the UX/design process. 
+
+Agile Methodologies: Agile, Waterfall, Kanban, Scrum
+Methodologies: OO, SOA, High Availability, Inversion of Control, Agile, RUP, Microservices and WaterFall 
+Version Control: ClearCase, CVS, SVN, SourceSafe and GitHub. 
+Software: Rational Rose, MS-Office Family, Eclipse, Maven, Ant, JUnit, JIRA, Gradle and MS-Project.
+
+Agile Methodology
+MongoDB
+Soft Skills:
+
+
+
+
+
+
+Desc - Java Developer   - 166
+
+
+Over [exp]+ Experience as Software Engineer and expert in software developement. Skilled in 
+
+Java 
+spring, 
+Hibernate
+JavaScript
+CSS
+Web Services
+JSP/Servlet
+microservices
+JDBC
+Core Java, Advance Java, 
+Swing and 
+Mobile Applications. Strong engineering professional graduated from Kadi Sarva Vishwavidyalaya, Kadi.
+
+    XML Technologies : XML, XSD, DTD, JAXP (SAX,DOM), JAXB
+Webservices : SOAP, WSDL, AXIS, JAX-RPC, JAX-WS
+Web Technologies : Angular JS, Javascript, Ajax, HTML, DHTML, XHTML
+Application Frameworks : Hibernate, Spring, Struts
+App/Web servers : WebSphere, WebLogic, JBoss, Tomcat
+Databases : Oracle, MySQL, SQL Server and DB2.
+Tools : ANT, JUNIT , log4j , Maven
+Configuration Management : CVS, Subversion, IBM ClearCase
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+
+Desc - Mobile Developer    164 & 165
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+Desc - Qa analyst  - 154 
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+
+Desc - Oracle   - 172 
+Over [exp_years]+ years of professional experience as [title] and expert in software developement using Java, ruby and Paython.
+Current skills:
+Front End: HTML, CSS,
+Back End : 
+Mobile
+Others: SVN,
+Soft skills  Great communicator, detailed-oriented, problem solver
+
+
+
+
+
+
+Desc2
+[title] with [exp_years]+ years of experience in development and proficient in programming languages ( java, nodesjs, python )
+Front End
+Back End
+Mobile
+Other
+Soft skills
+
+
+Desc3
+[exp_years]+ experienced [Title] with a demonstrated history of working in the computer software industry. Skilled in [Java, C, and Javascript. 
+Strong engineering professional with a Master's degree in focused in Computer Science from California State University-Los...
+
+
+Desc 4
+Having [exp_years] years of Software experience in design, development and support of enterprise applications using Enterprise Java technologies like Struts2, Hibernate, Spring(DI, AOP, DAO). 
+Proficient programming skills using Java 8, JSP, Servlets, Spring 4, Hibernate, Object Oriented Methodologies. Specialties: Struts...
+
+Experience in developing Restful web service
+
+
+Around 13+ years of experience in Web development, client-server-tier Enterprise applications using Java and J2EE. 
+Worked on all phases of SDLC including Analysis, Design Development, Testing, Implementation and Support. • Expert level programming skills in JAVA/J2EE related technologies.
+
+
+
+I am a Front-End Web Developer located near Columbus Ohio with outstanding communication, attitude, and ability to get the job done correctly. I am skilled in HTML, CSS, Javascript, Jquery, Handshake, and Bootstrap, but I enjoy learning.
+I have experience with SQL, SharePoint, and React.js. I'm always a student of my industry.
+
+
+
+
+hardik  
+------------------------------------------------------------------
+Make sure cv upload is working find  with profile record is being generated and
+Welcome Email is being generated
+job related communication with us
+job related communication with the candidate
+employer viewing videos and skill evaluation of the candidates
+Asking employer 3-4 key skills/treat required
+Specific skills/treat section  in job post
+short listed color       #80ced, 
+85% 		 #c5e8ec
+80% 	
+
+ #b2e1e6
+75% 		 #9fd9e0
+70% 		 #8bd2da
+65% 		 #78cad3
+60% 		 #65c3cd
+55% 		 #52bbc7
+50% 		 #3eb4c1
+45% 		 #38a2ad
+40% 		 #32909a
+35% 		 #2c7e87
+30% 		 #256c74
+25% 		 #1f5a60
+20% 		 #19484d
+15% 		 #13363a
+10% 		 #0c2427
+5% 		 #061213
+0% 		 #00000
+
+https://www.w3schools.com/colors/colors_picker.asp?color=80ced6
+
+Company job list, no logo and no company name required
+It should show the job status , Open, Shortlisted, Message sent, Avaiablity check, interview requested, interview done,
+waiting approval, waiting 2nd interview, waiting
+
+Allow user to add their own statuses?
+create profile for candidates
+
+
+
+
+Inam
+-------------------------------------------------------------------
+1. Deleting a job from job table if there are no skills or less skills
+2. The new export program should read personal data and if record exists then
+Delete personal info
+Profile info
+Education info
+Skill info
+Job match info
+
+Also it should calculate total experience and summary if not exists
+and also add as connected if it was connected
+
+
+
+
+
+
+Emails to be corrected
+--------------------------------------------------------------------
+
+1. Welcome email - when user uploads the resume/registers
+2. When his/her profile is viewed by the client
+3. videos viewed by employers
+4. Availability message
+5. Message to candidate by employer
+6. Interview request, select timing
+7. Interview confirmation 
+8. Interview reminder
+9. 2nd interview appointment
+10. email to employer to ask the status of the interview
+11. email to candidate for completing profile
+12. email to candidate for completing self interview and skill evaluation 
+13. Email to candidate explaining our process 
+14. Email to employer to confirm availablity
+15. Email to employer replying related to interview and skill evaluation request
+16  Candidate not available and providing similar candidate
+17  Welcome email to employer
+18. Email to employer when employer pasted a job but did not select/shortlisted candidates
+19. Email to candidates when an actual job by employer is posted
+20. Email to candidate when matching with existing jobs
+
+
+
+Ajay
+-------------------------------------------------
+1. How the connection request program should work
+It should read personal data with  lnkdn_connected = 0 and link_id <> '' and source = 'lnkdn_imp'
+then check it profile on linkedin and if the status is pending then update  lnkdn_connected = 1 (requested) with request date =0 
+if no connection request made then make a request on linkedin and update    lnkdn_connected = 1 (requested) with request date
+if connection already made then  update lnkdn_connected = 2 (requested) with request date
+and get data of the this profile like email address, phone number  and update personal data table
+
+
+2. Another program to read connected listed and get data such as email and phone number and update
+if option selected is "companies" then update companies table and employer table
+else
+only personal data
+
+   
