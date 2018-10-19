@@ -10,7 +10,11 @@ public class candidateRegistration extends BaseTestScript {
 	Candidate_RegisterPage can_reg;
 	String emailaddress = "inaamalvi3" + getRandomString(3) + "@gmail.com";
 	String APPLICATION_URL;
-	String password = "test" ;
+
+	String password = "test";
+	// test
+
+	
 
 	@Test(priority = 1)
 	public void successful_registration() throws InterruptedException, IOException {
