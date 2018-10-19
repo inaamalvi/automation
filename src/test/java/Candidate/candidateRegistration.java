@@ -11,6 +11,7 @@ public class candidateRegistration extends BaseTestScript {
 	String emailaddress = "inaamalvi3" + getRandomString(3) + "@gmail.com";
 	String APPLICATION_URL;
 	String password = "test";
+	// test
 
 	@Test(priority = 1)
 	public void successful_registration() throws InterruptedException, IOException {
